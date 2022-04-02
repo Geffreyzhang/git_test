@@ -10,5 +10,6 @@ public class test1 {
         System.out.println("这是hos上第二次提交");
         System.out.println("这是第一次push提交");
          System.out.println("这是第一次在GitHub更改的提交");
+        System.out.println("这是在idea上主支上提交的第五次");
     }
 }
