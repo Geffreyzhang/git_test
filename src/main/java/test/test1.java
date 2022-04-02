@@ -7,5 +7,6 @@ public class test1 {
         System.out.println("这是主分支第三次提交");
         System.out.println("这是hos的第一次提交");
         System.out.println("这是主分支上的第四次提交");
+        System.out.println("这是hos上第二次提交");
     }
 }
